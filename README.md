@@ -3,6 +3,12 @@
 **Admin Assistant | Developer | Experimenter**
 
 ---
+## Git stats
+
+![FaizanAhmed-RDVC1567's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAhmed-RDVC1567&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAhmed-RDVC1567&layout=compact&theme=radical)
+
+---
 
 ## 👨‍💻 About Me
 Hi, I’m Faizan! I enjoy coding and learning new technologies. Most of my projects are experiments where I explore ideas, try out different languages, and improve my problem-solving skills. I like keeping things simple, and I’m always curious about how things work under the hood.
