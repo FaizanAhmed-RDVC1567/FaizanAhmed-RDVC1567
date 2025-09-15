@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 Hi, I’m Faizan! I enjoy coding and learning new technologies. Most of my projects are experiments where I explore ideas, try out different languages, and improve my problem-solving skills. I like keeping things simple, and I’m always curious about how things work under the hood.
 
-Currently, I’m experimenting with creating GUI applications that can display different types of information—graphics, text, or images!
+Currently, I’m experimenting with creating GUI applications that can display different types of information—graphics, text, or images.
 
 ---
 
@@ -28,17 +28,24 @@ Currently, I’m experimenting with creating GUI applications that can display d
 ---
 
 ## 🌱 Interests & Hobbies
-Animals, animation, architecture, artificial intelligence, business, coding, computing, culinary arts, documentaries, electronics, environmental action, exercise, information security, journaling, learning languages, origami, pool, team sports, technology, travel, video games, volunteering, and more!
+Animals, animation, architecture, artificial intelligence, business, coding, computing, culinary arts, documentaries, electronics, environmental action, exercise, information security, journaling, learning languages, origami, pool, team sports, technology, travel, video games, volunteering.
 
 ---
 
 ## 🔥 Notable Projects
 
 - [Java Sound Experiments](https://github.com/FaizanAhmed-RDVC1567/Java_Sound_Experiments): Exploring audio manipulation in Java.
-- [Weather GUI](https://github.com/FaizanAhmed-RDVC1567/Weather_GUI): Building a graphical weather app.
+- [Weather GUI](https://github.com/FaizanAhmed-RDVC1567/Weather_GUI): Building a graphical weather app (early stages).
 - [2D Java Game Idea](https://github.com/FaizanAhmed-RDVC1567/2D_Java_Game_idea): Experimenting with game mechanics and graphics.
-- [3D Graph Test](https://github.com/FaizanAhmed-RDVC1567/3d_graph_Test): An attempt at visualizing 3D data in Java.
-- [Java Collections (LinkedIn)](https://github.com/FaizanAhmed-RDVC1567/java-collections-LinkedIn): Practice and learning with Java collections.
+- [3D Graph Test](https://github.com/FaizanAhmed-RDVC1567/3d_graph_Test): An attempt at visualizing a 3D graph in Python.
+- [Java Collections (LinkedIn)](https://github.com/FaizanAhmed-RDVC1567/java-collections-LinkedIn): Practice and learning with Java collections (ongoing).
+
+---
+
+## 🗣️ Languages Spoken
+
+- English [Proficiency Level: B2]
+- Urdu [Proficiency Level: B1]
 
 ---
 
