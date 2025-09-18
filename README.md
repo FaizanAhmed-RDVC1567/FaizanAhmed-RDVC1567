@@ -4,8 +4,11 @@
 
 ---
 ## Git stats
-
+<!--
+This one doesn't work anymore, it seems to be a freemium type of thing that reached its' API limit within a couple of days. Commented out
+Next one is strange. It shows only two languages when there are more than two languages being used when considering all of my repos, forked or not.
 ![FaizanAhmed-RDVC1567's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaizanAhmed-RDVC1567&show_icons=true&theme=radical)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAhmed-RDVC1567&layout=compact&theme=radical)
 
 ---
