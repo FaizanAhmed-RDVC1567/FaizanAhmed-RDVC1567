@@ -37,7 +37,28 @@ Currently, I’m experimenting with creating GUI applications that can display d
 ---
 
 ## 🌱 Interests & Hobbies
-Animals, animation, architecture, artificial intelligence, business, coding, computing, culinary arts, documentaries, electronics, environmental action, exercise, information security, journaling, learning languages, origami, pool, team sports, technology, travel, video games, volunteering.
+* Animals
+* animation
+* architecture
+* artificial intelligence
+* business
+* coding
+* computing
+* culinary arts
+* documentaries
+* electronics
+* environmental action
+* exercise
+* information security
+* journaling
+* learning languages
+* origami
+* pool (billiards)
+* team sports
+* technology
+* travel
+* video games
+* volunteering.
 
 ---
 
